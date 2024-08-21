@@ -35,7 +35,7 @@ def maino():
     "Accept": "*/*",
     "Accept-Language": "en-US,en;q=0.5",
     "Referer": "https://accounts.snapchat.com/",
-    "Cookie": "xsrf_token=a-mMpU6dwym43afgEibJnw; web_client_id=12966659-1ddb-4d0b-8c4c-e39610ddf0f8; _sca={%22cid%22:%2235552e94-28cd-46fc-bf26-b220994ae1d7%22%2C%22token%22:%22v1.key.2018-05-23_8lt9BOpW.iv.ykqLG02DA/OtGORO.j0/QFbsqE82bUtb8Qa0jO6//zEXiS4ZQT4tYissWzZ42fsdCsi8fl7Hy2bEHDm3hs1Li8jciZDbraK3xOUQoTk21tiPgsPcMQvecgafXovbGZOKh%22}; _scid=f2fd66fb-9e11-44d8-a36f-75d807b8d061; sc_at=v2|H4sIAAAAAAAAADNITjFJNjcz100zNjTVNTE2M9RNtDAz1k1NtjAzMU01TElKSqoxNDKwMjQ1NQZKA0VrkJgGAGh4Yl9AAAAA; _sctr=1|1553400000000; oauth_client_id=scan",
+    "Cookie": "xsrf_token=d0b-8c4c-e39610ddf0f8; _sca={%22cid%22:%2235552e94-28cd-46fc-bf26-b220994ae1d7%22%2C%22token%22:%22v1.key.2018-05-23_8lt9BOpW.iv.ykqLG02DA/OtGORO.j0AAAAAAAAADNITjFJNjcz100zNjTVNTE2M9RNtDAz1k1NtjAzMU01TElKSqoxNDKwMjQ1NQZKA0VrkJgGAGh4Yl9AAAAA; _sctr=1|1553400000000; oauth_client_id=scan",
     "Connection": "close",
     "Content-Type": "application/x-www-form-urlencoded; charset=utf-8"
     }
